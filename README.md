@@ -91,7 +91,7 @@ Final Model
 
 ---
 
-## 📊 Evaluation Metrics
+## 📊 Evaluation Metrics Ues:
 
 - Accuracy
 - Precision
@@ -139,13 +139,5 @@ jupyter notebook
 - Deep Learning Model
 - Streamlit Deployment
 - Explainable AI (SHAP)
-
----
-
-## 👨‍💻 Author
-
-Jay Prajapati
-
-LinkedIn:
-
+-------------------------------
 
